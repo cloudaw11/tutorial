@@ -1,0 +1,7 @@
+df<<<<<<< HEAD
+1 line
+2 line
+=======
+f line
+s line
+>>>>>>> 5a53d28 (First commit from new_branch)
