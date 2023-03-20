@@ -1,7 +1,11 @@
-df<<<<<<< HEAD
+ddfdfdfdfdff<<<<<<< HEAD
 1 line
 2 line
+<<<<<<< Updated upstream
 =======
 f line
 s line
 >>>>>>> 5a53d28 (First commit from new_branch)
+=======
+3 line
+>>>>>>> Stashed changes
